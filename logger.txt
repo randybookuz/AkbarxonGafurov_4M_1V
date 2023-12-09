@@ -1,0 +1,6 @@
+дек. 09, 2023 1:25:40 PM service.CountryServiceImpl addCountry
+INFO: addCountry ishladi
+дек. 09, 2023 1:25:40 PM service.CountryServiceImpl serialize
+INFO: serialize ishladi
+дек. 09, 2023 1:25:40 PM service.CountryServiceImpl desrialize
+INFO: deserialize ishladi
